@@ -47,11 +47,6 @@
       "target": "api::category.category",
       "inversedBy": "products"
     },
-    "typesTaste": {
-      "type": "component",
-      "repeatable": true,
-      "component": "types.tastes"
-    },
     "stock": {
       "type": "integer",
       "required": true,
